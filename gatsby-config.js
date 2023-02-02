@@ -6,5 +6,5 @@ module.exports = {
     title: `product_idea_finder`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
-}
+  plugins: ["gatsby-plugin-postcss"],
+};
